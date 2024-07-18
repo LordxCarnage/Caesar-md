@@ -22,15 +22,15 @@ global.location = '1' //Ganti Pake Location Panel Lu
 
 //===========================//
 
-global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['2348083653552']
-global.ownMain = '2348083653552'
-global.NamaOwner = 'Johnleo' //gausah diganti 
+global.prefa = ['.']
+global.owner = ['2348078112891']
+global.ownMain = '2348078112891'
+global.NamaOwner = 'Outlaw' //gausah diganti 
 global.sessionName = 'illuminatisession'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
 global.namabot = '𝐈𝐋𝐋𝐔𝐌𝐈𝐍𝐀𝐓𝐈-𝐕6' //ganti aj klo mau
-global.author = '𝑱𝑶𝑯𝑵𝑳𝑬𝑶' //ganti aj klo mau
-global.packname = 'Illuminati 𝙱𝚘𝚝' //ganti aj klo mau
+global.author = 'CAESAR' //ganti aj klo mau
+global.packname = 'Caesar-𝙱𝚘𝚝' //ganti aj klo mau
 global.yt = 'https://chat.whatsapp.com/G5ZDobhW8FUFPnu572jUWz' //gausah diganti
 
 //===========================//
