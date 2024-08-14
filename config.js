@@ -22,16 +22,16 @@ global.location = '1' //Ganti Pake Location Panel Lu
 
 //===========================//
 
-global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['233530729233']
-global.ownMain = '233538230444'
-global.NamaOwner = 'BRYANT TECH' //gausah diganti 
-global.sessionName = 'barbiesession'
+global.prefa = ['.']
+global.owner = ['2348078112891']
+global.ownMain = '2348078112891'
+global.NamaOwner = 'Outlaw' //gausah diganti 
+global.sessionName = 'spidersession'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
-global.namabot = '𝐁𝐀𝐑𝐁𝐀𝐑𝐀-𝐕𝟒' //ganti aj klo mau
-global.author = '𝑩𝑹𝒀𝑨𝑵𝑻 𝑻𝑬𝑪𝑯' //ganti aj klo mau
-global.packname = '𝙱𝚁𝚈𝙰𝙽𝚃 𝚃𝙴𝙲𝙷' //ganti aj klo mau
-global.yt = 'https://chat.whatsapp.com/F1aJUvD98j51cgEhg6QSjr' //gausah diganti
+global.namabot = '𝐈𝐋𝐋𝐔𝐌𝐈𝐍𝐀𝐓𝐈-𝐕6' //ganti aj klo mau
+global.author = 'CAESAR' //ganti aj klo mau
+global.packname = 'Caesar-𝙱𝚘𝚝' //ganti aj klo mau
+global.yt = 'https://chat.whatsapp.com/G5ZDobhW8FUFPnu572jUWz' //gausah diganti
 
 //===========================//
 
@@ -46,9 +46,9 @@ global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
  
 //===========================//
 
-global.country = `254`
+global.country = `234`
 global.system = {
-gmail: `Bryantxtech@gmail.com`,
+gmail: `johnleo.smith.666@gmail.com`,
 }
 
 //===========================//
@@ -146,12 +146,12 @@ else return emot[results[0][0]]
 global.mess = { // bagian ini gausah diganti 
 ingroup: '𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚌𝚊𝚗 𝚘𝚗𝚕𝚢 𝚋𝚎 𝚞𝚜𝚎𝚍 𝚘𝚗 𝚐𝚛𝚘𝚞𝚙𝚜💢',
 admin: `❗𝚂𝚘𝚛𝚛𝚢 𝚈𝚘𝚞 𝚊𝚛𝚎 𝚗𝚘𝚝 𝚘𝚗𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚊𝚍𝚖𝚒𝚗𝚜 😝`,
-owner: `𝚈𝚘𝚞 𝚊𝚛𝚎 𝚗𝚘𝚝 \`B͛R͛Y͛A͛N͛T͛-T͛E͛C͛H͛.\` 𝚈𝚘𝚞 𝚌𝚊𝚗𝚝 𝚊𝚌𝚌𝚎𝚜𝚜🗣️`,
-premium: '𝚈𝚘𝚞 𝚊𝚛𝚎 𝚗𝚘𝚝 𝚘𝚗𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚙𝚛𝚎𝚖𝚒𝚞𝚖 𝚖𝚎𝚖𝚋𝚎𝚛𝚜 𝚜𝚘𝚛𝚛𝚢🙇',
+owner: `𝚈𝚘𝚞 𝚊𝚛𝚎 𝚗𝚘𝚝 \`𝑱𝑶𝑯𝑵𝑳𝑬𝑶\` 𝚈𝚘𝚞 𝚌𝚊𝚗𝚝 𝚊𝚌𝚌𝚎𝚜𝚜🗣️`,
+premium: '𝚈𝚘𝚞 𝚊𝚛𝚎 𝚗𝚘𝚝 𝚘𝚗𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚙𝚛𝚎𝚖𝚒𝚞𝚖 𝚖𝚎𝚖𝚋𝚎𝚛𝚜 𝚜𝚘𝚛𝚛𝚢🐦',
 seller: 'Lu bukan seller, Jadi gabakal bisa make😹',
 usingsetpp: '𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚙𝚒𝚌 𝚞𝚙𝚍𝚊𝚝𝚎𝚍 𝚜𝚞𝚌𝚌𝚎𝚜𝚏𝚞𝚕 🤓',
 wait: '*🕙𝚆𝚊𝚒𝚝 𝚊𝚜 𝙸 𝚙𝚛𝚘𝚌𝚌𝚎𝚜 𝚢𝚘𝚞𝚛 𝚛𝚎𝚚𝚞𝚎𝚜𝚝🗿*',
-succes: '🌆𝙳𝚘𝚗𝚎 𝚋𝚢 𝙱𝙰𝚁𝙱𝙰𝚁𝙰-𝚅𝟺😎',
+succes: '🌆𝙳𝚘𝚗𝚎 𝚋𝚢 𝙳evil 😈 Illuminati🗿🚬',
 bugrespon: `✅𝙿𝚛𝚘𝚌𝚌𝚎𝚜𝚒𝚗𝚐😈`
 }
 
