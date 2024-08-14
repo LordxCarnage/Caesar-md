@@ -1927,7 +1927,7 @@ let njing = `
 ✠ Library : WS-Baileys
 ✠ Type : Case
 ✠ Status : Ready
-✠ Mode : ${ryozingod.public ? '✱ Public ' ✘: '✲ Self ༣'}
+✠ Mode : ${ryozingod.public ? '✱ Public ༣' : '✲ Self ༣'}
 ✠ User : ${Object.keys(db.data.users).length}
 ✠ Prefix : Single 
 ┗━━━━°❀•°:🎀
