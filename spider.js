@@ -1932,7 +1932,7 @@ let njing = `
 ✠ Prefix : Single 
 ┗━━━━°❀•°:🎀
 
-☆》${prefix}Bugmenu
+☆》${prefix}bugmenu
 ☆》${prefix}allmenu
 ☆》${prefix}changemenu button/non
 ☆》${prefix}owner
@@ -2359,7 +2359,7 @@ ryozingod.relayMessage(m.chat, msg, {})
 }
 break
 //=================================================//
-case "Bugmenu": {
+case "bugmenu": {
 let jinjing = [nulll, nulll2]
 let randomIndex = Math.floor(Math.random() * jinjing.length)
 let mydick = jinjing[randomIndex]
