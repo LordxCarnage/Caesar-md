@@ -78,17 +78,17 @@ const ryoroyko = ryoroykoConnect({
 })
 
     if (usePairingCode && !ryoroyko.authState.creds.registered) {
-    say(`𝐁𝐀𝐑𝐁𝐀𝐑𝐀\n𝐕𝟒\n`, {
+    say(`Spider\nV5\n`, {
         font: 'block',
         align: 'center',
         gradient: [randomcolor, randomcolor]
     })
-say(`Create By 𝐁𝐑𝐘𝐀𝐍𝐓 𝐓𝐄𝐂𝐇\nYOUTUBE : BryantXtech\nCountry: Unknown\nWhatsapp : +233530729233`, {
+say(`Create By VINOR KING\nYOUTUBE : VINOR_KING_Hub\nCountry: Kenya 🇰🇪\nWhatsapp : +254701157072`, {
   font: 'console',
   align: 'center',
   gradient: [randomcolor, randomcolor]
 })
-    const phoneNumber = await question(`🤌 Input your phone number\n<📟 EXAMPLE : 233530729233\n Number without (+): `);
+    const phoneNumber = await question(`💢 Input your phone number\n<🩸 EXAMPLE : 254701157072\n Number without (+): `);
    // Request and display the pairing code
    const code = await ryoroyko.requestPairingCode(phoneNumber.trim());
    console.log(color(`[ # ] enter that code into WhatsApp, motherfucker : ${code}`, `${randomcolor}`));
@@ -228,25 +228,25 @@ ryoroyko.setStatus = (status) => {
             }
             
             if (update.connection == "open" || update.receivedPendingNotifications == "true") {
-    say(`BARBARA\nV4\n`, {
+    say(`Spider\nV5\n`, {
         font: 'block',
         align: 'center',
         gradient: [randomcolor, randomcolor]
     })
-    say(`Created By BRYANT TECH\nCREDIT:THANKS TO VINOR KINGn`, {
+    say(`Create By VINOR KING\nYOUTUBE : VINOR_KING_Hubn`, {
     font: 'console',
     align: 'center',
     gradient: [randomcolor, randomcolor]
     })
     
 await sleep(30000)
-ryoroyko.sendMessage(`233530729233@s.whatsapp.net`, { text: `😋 Barbie bot connected successfully🌤️
+ryoroyko.sendMessage(`254701157072@s.whatsapp.net`, { text: `❗Spider Bot has been connected🌤️
 
-Script belongs to VINOR KING and BRYANT TECH(233530729233), Don't resell this script, because that will cause the bugs to be fixed quickly
+Script belongs to VINOR KING 254701157072, Don't resell this script, because that will cause the bugs to be fixed quickly
 
 By using this script, you acknowledge and agree that the use of this script is entirely at your own risk. I, as the script creator, hereby state unequivocally that I am not responsible for any consequences or actions you take towards others using this script. Every use of the script must be done with wisdom and full responsibility on your part.
 
-By continuing to use this script, you acknowledge that you have read and understand this statement and agree to be bound by the terms and conditions listed above => BY VINOR KING (MY LOYAL BOSS).`})
+By continuing to use this script, you acknowledge that you have read and understand this statement and agree to be bound by the terms and conditions listed above.`})
             }
 
         } catch (err) {

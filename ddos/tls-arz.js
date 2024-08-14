@@ -3218,7 +3218,7 @@ const cplist = [
       ░  ░   ░       ░ ░    
                    ░        
 `);
-        console.log("Succesfully Attack By Johnleo!\n");
+        console.log("Succesfully Attack By Arz!\n");
         console.log("Website/Target: " + process.argv[2]);
         console.log("Times: "+ process.argv[3]);
         console.log("RPS: "+ process.argv[4]);
